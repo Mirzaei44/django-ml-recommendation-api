@@ -1,6 +1,7 @@
 # Django ML Recommendation API
 
-A small Django REST API that demonstrates a clean backend structure and lightweight ML model serving.
+A Django REST API that serves a recommendation model (joblib).
+Focus: service-layer design, validation, and error handling.
 
 ## What this project includes
 
